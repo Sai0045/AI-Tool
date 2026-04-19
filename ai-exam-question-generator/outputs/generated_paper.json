@@ -1,0 +1,284 @@
+{
+  "title": "End-Semester Examination (60 Marks)",
+  "total_marks": 60,
+  "questions": [
+    {
+      "unit": "Unit 1",
+      "topic": "Nature and Scope of Management",
+      "marks": 2,
+      "bloom_level": "Understand",
+      "difficulty": "Easy",
+      "question": "Explain the concept of management as a process.",
+      "model_answer": [
+        "Management is a continuous process of planning, organizing, directing, and controlling.",
+        "It involves coordinating resources to achieve organizational goals efficiently and effectively."
+      ],
+      "marking_scheme": [
+        "Definition of process: 1",
+        "Explanation of functions: 1"
+      ]
+    },
+    {
+      "unit": "Unit 1",
+      "topic": "Classical Management Approaches",
+      "marks": 2,
+      "bloom_level": "Analyze",
+      "difficulty": "Medium",
+      "question": "Differentiate between Scientific Management and Administrative Principles.",
+      "model_answer": [
+        "Scientific Management focuses on individual task efficiency (Taylor).",
+        "Administrative Principles focus on the overall organizational structure (Fayol)."
+      ],
+      "marking_scheme": [
+        "Scientific focus: 1",
+        "Administrative focus: 1"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "topic": "Planning",
+      "marks": 2,
+      "bloom_level": "Understand",
+      "difficulty": "Easy",
+      "question": "What is the importance of planning in an organization?",
+      "model_answer": [
+        "Provides direction and reduces uncertainty.",
+        "Establishes standards for controlling and minimizes waste."
+      ],
+      "marking_scheme": [
+        "Direction/Uncertainty: 1",
+        "Standards/Waste: 1"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "topic": "Management by Objectives (MBO)",
+      "marks": 2,
+      "bloom_level": "Apply",
+      "difficulty": "Medium",
+      "question": "How would you implement MBO in a small business setting?",
+      "model_answer": [
+        "Set specific goals collaboratively between managers and employees.",
+        "Monitor progress regularly and provide feedback for performance improvement."
+      ],
+      "marking_scheme": [
+        "Collaborative goal setting: 1",
+        "Monitoring and feedback: 1"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "topic": "Leadership",
+      "marks": 2,
+      "bloom_level": "Analyze",
+      "difficulty": "Hard",
+      "question": "Analyze the impact of leadership styles on employee motivation.",
+      "model_answer": [
+        "Autocratic styles may lead to short-term productivity but lower morale.",
+        "Democratic styles foster engagement and long-term commitment."
+      ],
+      "marking_scheme": [
+        "Autocratic impact: 1",
+        "Democratic impact: 1"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "topic": "Controlling",
+      "marks": 2,
+      "bloom_level": "Apply",
+      "difficulty": "Medium",
+      "question": "Apply the concept of 'Relationship between Planning and Controlling' to a project scenario.",
+      "model_answer": [
+        "Planning sets the targets (benchmarks).",
+        "Controlling measures actual performance against these targets to take corrective action."
+      ],
+      "marking_scheme": [
+        "Planning as benchmark: 1",
+        "Controlling as corrective measure: 1"
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "topic": "Managerial Roles",
+      "marks": 2,
+      "bloom_level": "Understand",
+      "difficulty": "Easy",
+      "question": "Define the Informational roles of a manager.",
+      "model_answer": [
+        "Monitor: Seeking and receiving information.",
+        "Disseminator and Spokesperson: Transmitting information to others inside and outside the unit."
+      ],
+      "marking_scheme": [
+        "Monitor role: 1",
+        "Disseminator/Spokesperson: 1"
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "topic": "Managerial Skills",
+      "marks": 2,
+      "bloom_level": "Understand",
+      "difficulty": "Easy",
+      "question": "What are the three essential managerial skills according to Katz?",
+      "model_answer": [
+        "Technical skills: Proficiency in specific tasks.",
+        "Human skills: Ability to work with people.",
+        "Conceptual skills: Ability to see the organization as a whole."
+      ],
+      "marking_scheme": [
+        "Listing skills: 1",
+        "Brief explanation: 1"
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "topic": "Organizational Structure",
+      "marks": 2,
+      "bloom_level": "Analyze",
+      "difficulty": "Medium",
+      "question": "Analyze why a Matrix structure might be preferred over a Functional structure in complex environments.",
+      "model_answer": [
+        "Matrix allows for better resource sharing across projects.",
+        "Functional structures may become too rigid to handle cross-departmental project needs."
+      ],
+      "marking_scheme": [
+        "Resource sharing: 1",
+        "Flexibility: 1"
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "topic": "Organizational Culture",
+      "marks": 2,
+      "bloom_level": "Understand",
+      "difficulty": "Easy",
+      "question": "Define organizational culture and its significance.",
+      "model_answer": [
+        "Shared values and beliefs within an organization.",
+        "It influences employee behavior and organizational effectiveness."
+      ],
+      "marking_scheme": [
+        "Definition: 1",
+        "Significance: 1"
+      ]
+    },
+    {
+      "unit": "Unit 1",
+      "topic": "Evolution of Management",
+      "marks": 5,
+      "bloom_level": "Remember",
+      "difficulty": "Easy",
+      "question": "List and explain the key contributions of the Classical Management approach.",
+      "model_answer": [
+        "Scientific Management: Focus on work study and standardization.",
+        "Administrative Theory: Focus on 14 principles of management.",
+        "Bureaucratic Model: Focus on hierarchy and rules."
+      ],
+      "marking_scheme": [
+        "Scientific contribution: 2",
+        "Administrative contribution: 2",
+        "Bureaucratic contribution: 1"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "topic": "Planning",
+      "marks": 5,
+      "bloom_level": "Remember",
+      "difficulty": "Easy",
+      "question": "Describe the steps involved in the planning process.",
+      "model_answer": [
+        "Setting objectives.",
+        "Developing premises.",
+        "Identifying alternatives.",
+        "Evaluating alternatives and selecting the best.",
+        "Implementation and follow-up."
+      ],
+      "marking_scheme": [
+        "Steps 1-3: 3",
+        "Steps 4-5: 2"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "topic": "Motivation",
+      "marks": 5,
+      "bloom_level": "Understand",
+      "difficulty": "Medium",
+      "question": "Explain the importance of motivation in management with an example.",
+      "model_answer": [
+        "Motivation leads to higher productivity and job satisfaction.",
+        "It reduces employee turnover and absenteeism.",
+        "Example: Offering performance-based bonuses to increase sales targets."
+      ],
+      "marking_scheme": [
+        "Importance points: 3",
+        "Example: 2"
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "topic": "Decisional Roles",
+      "marks": 5,
+      "bloom_level": "Understand",
+      "difficulty": "Medium",
+      "question": "Discuss the Decisional roles of a manager as proposed by Mintzberg.",
+      "model_answer": [
+        "Entrepreneur: Initiating change.",
+        "Disturbance Handler: Managing conflicts.",
+        "Resource Allocator: Distributing organizational resources.",
+        "Negotiator: Representing the organization in deals."
+      ],
+      "marking_scheme": [
+        "Listing roles: 3",
+        "Brief description: 2"
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "topic": "Organizational Design",
+      "marks": 10,
+      "bloom_level": "Remember",
+      "difficulty": "Medium",
+      "question": "Compare and contrast Functional, Divisional, and Matrix organizational structures.",
+      "model_answer": [
+        "Functional: Grouped by specialty; efficient but siloed.",
+        "Divisional: Grouped by product/market; autonomous but duplicate resources.",
+        "Matrix: Dual reporting; flexible but complex.",
+        "Comparison table or detailed analysis provided."
+      ],
+      "marking_scheme": [
+        "Functional description: 3",
+        "Divisional description: 3",
+        "Matrix description: 3",
+        "Comparison: 1"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "topic": "Controlling",
+      "marks": 10,
+      "bloom_level": "Apply",
+      "difficulty": "Hard",
+      "question": "Design a control system for a manufacturing unit. Justify your approach.",
+      "model_answer": [
+        "Establish standards (e.g., production quotas).",
+        "Measure performance (e.g., daily output reports).",
+        "Compare performance against standards.",
+        "Take corrective action (e.g., maintenance or training).",
+        "Justification: Ensures quality and efficiency."
+      ],
+      "marking_scheme": [
+        "Steps of control: 6",
+        "Justification: 4"
+      ]
+    }
+  ],
+  "instructions": [
+    "Answer all questions.",
+    "Marks for each question are indicated against each question.",
+    "Draw neat diagrams wherever necessary.",
+    "Justify your answers with suitable examples."
+  ]
+}
